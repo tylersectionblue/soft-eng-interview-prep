@@ -6,15 +6,15 @@
 
 ### Layers
 
-Layer           | Data unit          | Examples
-----------------|--------------------|-------------------------------------
-1. Physical     | bit                | Ethernet, USB, Wi-Fi, Bluetooth, DSL
-2. Data link    | Frame              | L2TP, PPP
-3. Network      | Packet             | **IPv4**, **IPv6**
-4. Transport    | Segment (Datagram) | **TCP**, **UDP**
-5. Session      | Data               | HTTP, FTP, SMTP, DNS, IMAP, SSH, TLS
-6. Presentation | Data               | ASCII, JPEG
-7. Application  | Data               | Chrome, Mail.app
+Sr No | Layer           | Data unit          | Examples
+------|-----------------|--------------------|-------------------------------------
+1    | Physical         | bit                | Ethernet, USB, Wi-Fi, Bluetooth, DSL
+2    | Data link        | Frame              | L2TP, PPP
+3    | Network          | Packet             | **IPv4**, **IPv6**
+4    | Transport        | Segment (Datagram) | **TCP**, **UDP**
+5    | Session          | Data               | HTTP, FTP, SMTP, DNS, IMAP, SSH, TLS
+6    | Presentation     | Data               | ASCII, JPEG
+7    | Application      | Data               | Chrome, Mail.app
 
 ### Data Units
 
